@@ -76,8 +76,8 @@
         <mxCell id="wJ9yf6Tfjn63uJ1EannD-26" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wJ9yf6Tfjn63uJ1EannD-27" value="&lt;div&gt;&lt;div&gt;$$&lt;/div&gt;&lt;div&gt;\int_0^1 x^2 \, dx&lt;/div&gt;&lt;div&gt;$$&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="360" width="60" height="30" as="geometry" />
+        <mxCell id="wJ9yf6Tfjn63uJ1EannD-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
